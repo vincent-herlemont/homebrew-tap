@@ -1,8 +1,8 @@
 class Short < Formula
   desc "Concise cli launcher / project manager using env files"
   homepage "https://github.com/vincent-herlemont/short"
-  url "https://github.com/vincent-herlemont/short/archive/v0.3.4.tar.gz"
-  sha256 "6c6ce5f3e3e3af1c7f3f802f3099fac8c21dfd68b14c8d3417d1e5c4407f040a"
+  url "https://github.com/vincent-herlemont/short/archive/v0.3.5.tar.gz"
+  sha256 "deb8016dce423ec873cca72096f6dc52be942b614a397b8cdda1aef967397c6c"
   license ["Apache-2.0", "MIT"]
 
   depends_on "openssl" => :build
